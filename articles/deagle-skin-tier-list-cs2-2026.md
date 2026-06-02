@@ -315,26 +315,14 @@ Budget trade-up filler only. Purple tones but boring execution.
 
 ## FAQ
 
-**Why is Desert Eagle | Blaze S-Tier and not A-Tier?**
-Blaze is one of the few CS2 skins with zero bad angles, a design unchanged since 2013, and consistent price appreciation over years. It has only two wear conditions, which limits supply and sustains demand. No other Deagle skin has all three of these qualities simultaneously.
+**How many tiers are in this Desert Eagle skin tier list?**
+Five tiers: S, A, B, C, and D. S-Tier contains the two best skins - Blaze and Printstream. D-Tier contains three skins with almost no visual appeal that are only useful as trade-up material.
 
-**Why is Printstream S-Tier despite being much cheaper than Blaze?**
-Tier ranking is not only about price - it is about design quality, community recognition, and value for money. Printstream is the most liquid Deagle skin, universally respected, and offers the best looks-to-price ratio in the entire lineup. At $35 FT it outperforms skins that cost 10x more.
+**What criteria were used to rank Desert Eagle skins?**
+Four criteria: visual design quality, community demand and recognition, price-to-value ratio (how good the skin looks relative to its cost), and liquidity (how easy it is to buy and sell). Price alone does not determine tier - Printstream at $35 is S-Tier while Hypnotic at $203 is A-Tier.
 
-**What makes a skin drop from A-Tier to B-Tier?**
-The main reasons a skin falls to B-Tier: large visual gap between FT and FN (you need to spend much more to get the real look), pattern dependency (Crimson Web), or very low supply making it hard to buy or sell (Pilot). A-Tier skins avoid all three issues.
+**What is the difference between S-Tier and A-Tier?**
+S-Tier skins are community icons - instantly recognizable by any CS2 player, with proven long-term value and no significant weaknesses. A-Tier skins are excellent picks but lack that universal recognition or have a minor trade-off, such as a large price gap between wear conditions.
 
-**Is Desert Eagle | Crimson Web worth buying?**
-Only if you check the pattern first. A centered web (pattern index 70-100) can look stunning - but an average pattern at the same price is a poor deal. Never buy Crimson Web without inspecting the specific float and pattern.
-
-**Why is Hypnotic A-Tier despite the $200+ price?**
-Hypnotic earns A-Tier because of its unique optical illusion design, collector appeal, and the fact that MW at $203 and FN at $230 look essentially identical - making it relatively efficient for its price range. It is not S-Tier only because it lacks the universal recognition of Blaze or Printstream.
-
-**Are C-Tier and D-Tier skins ever worth buying?**
-C-Tier skins like Mecha Industries or Conspiracy have legitimate uses as cheap loadout options or trade-up filler. D-Tier skins (Heat Treated, Naga, Mulberry) are only worth buying if you specifically need red-rarity material for a trade-up contract - and even then, always compare prices with other red skins first.
-
-**What is the best Desert Eagle skin for a red-themed loadout?**
-Desert Eagle | Code Red (A-Tier, FT $41) is the top pick for red loadouts - bold design, strong demand, and available in FT at a reasonable price. For budget players, Desert Eagle | Crimson Web FT ($11) works well if the pattern is decent.
-
-**Where to buy Desert Eagle skins?**
-Browse the full Desert Eagle catalog with real-time prices on [skin.land](https://skin.land) - instant delivery and secure transactions.
+**How often is this tier list updated?**
+We update the tier list when new skins are added to CS2 or when significant market shifts change the value of existing skins. Prices are refreshed from skin.land catalog data - the current version reflects June 2026 market conditions.

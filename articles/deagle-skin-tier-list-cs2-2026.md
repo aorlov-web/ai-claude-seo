@@ -24,7 +24,7 @@ This tier list ranks every Desert Eagle skin available on [Skin.Land](https://sk
 
 S-Tier skins are the ones every CS2 player recognizes instantly. They have proven track records, hold value over time, and look great in every situation. If you own one of these, you never need to explain why.
 
-### Desert Eagle | Blaze
+### [Desert Eagle | Blaze](https://skin.land/market/csgo/desert-eagle-blaze-factory-new/)
 
 ![Desert Eagle Blaze Factory New - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKF-JeKHMWKRxuJzj-JmXTu8kRgpjDGMnYftb32UPwJxDJokRuUIsRi_lNPhM7izsgXZi49GySiq2nxNuCdttbtUB_A7uvqAjSk2l_c/360fx360f)
 
@@ -39,7 +39,7 @@ Interestingly, MW costs *more* than FN due to a more intense flame coloration - 
 
 ---
 
-### Desert Eagle | Printstream
+### [Desert Eagle | Printstream](https://skin.land/market/csgo/desert-eagle-printstream-factory-new/)
 
 ![Desert Eagle Printstream Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ8-DHG6e1f1iouRoQha-kBkupjDLz9_6c3mWPFBxX8N0EOMIsULpmtHjPuvq41bc2dhAzy3_2ngfvHpt5_FCD_RJLjxjaQ/360fx360f)
 
@@ -58,7 +58,7 @@ Field-Tested at $35 gives ~90% of the FN look at under half the price - one of t
 
 A-Tier skins are not as iconic as S-Tier, but they are confidently recommended buys. Each has a distinct look, solid community demand, and good price-to-quality ratio. Any of these will make your loadout stand out without regret.
 
-### Desert Eagle | Cobalt Disruption
+### [Desert Eagle | Cobalt Disruption](https://skin.land/market/csgo/desert-eagle-cobalt-disruption-factory-new/)
 
 ![Desert Eagle Cobalt Disruption Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RbKB9IeSXC2mDxNFmteBqQCq4qhAitzSQl8GocHyWaVV0D5twQ-MN4BK5wdCzYr_q4FaL2dhCxXn4jnxL6y9s6-kHT-N7rQZpqM5J/360fx360f)
 
@@ -71,7 +71,7 @@ A vibrant blue geometric design that stands out in a sea of dark skins. Popular 
 
 ---
 
-### Desert Eagle | Hypnotic
+### [Desert Eagle | Hypnotic](https://skin.land/market/csgo/desert-eagle-hypnotic-factory-new/)
 
 ![Desert Eagle Hypnotic Factory New - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7vORfqF_NPmUAVicyOl-pK9qSyyywxgjtmnVytyocnLGPA4iWcYmRLYIu0S-xtbuMLjg51DXjoJC02yg2VjGnh4J/360fx360f)
 
@@ -84,7 +84,7 @@ Classic swirling optical illusion pattern that still turns heads in 2026. Only F
 
 ---
 
-### Desert Eagle | Code Red
+### [Desert Eagle | Code Red](https://skin.land/market/csgo/desert-eagle-code-red-factory-new/)
 
 ![Desert Eagle Code Red Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWaXxvxzo_JmXRa-kBkupjDLzd2qIH_DPQcpA8YjFuQP50a7moKyMuK35QyK3t0WnC75iC5B53w-5PFCD_THYZfD3g/360fx360f)
 
@@ -97,7 +97,7 @@ Bold red angular design. One of the most popular red loadout picks with strong s
 
 ---
 
-### Desert Eagle | Ocean Drive
+### [Desert Eagle | Ocean Drive](https://skin.land/market/csgo/desert-eagle-ocean-drive-factory-new/)
 
 ![Desert Eagle Ocean Drive Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ_yWMWyZ1e1-j-xsSyCmmFN_4jjWm9r4dX2UaFUmW8QhF-8CuxHrw4DuZLvi41fX2YkTyyj82H8c8G81tL4Q1wXb/360fx360f)
 
@@ -110,7 +110,7 @@ Miami Vice-inspired pastel skin with a retro vibe. The FT at $61 looks nearly id
 
 ---
 
-### Desert Eagle | Starcade
+### [Desert Eagle | Starcade](https://skin.land/market/csgo/desert-eagle-starcade-factory-new/)
 
 ![Desert Eagle Starcade Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRb6hkNOSWHFiUxO9xvORWQiy3nAgq_TyBmd-vdnyQOlBxX5N5RbVf5Ea9wdziZunk5AzfjYoUmyitiSsYu3x1o7FVQTjRQV0/360fx360f)
 
@@ -127,7 +127,7 @@ Retro arcade aesthetic with high liquidity. Unique theme and great looks at FT/M
 
 B-Tier skins are good - but each has at least one reason to pause before buying. Either the price gap between wear conditions is too large, the skin relies on pattern luck, or availability is limited. Worth owning, but do your research first.
 
-### Desert Eagle | Kumicho Dragon
+### [Desert Eagle | Kumicho Dragon](https://skin.land/market/csgo/desert-eagle-kumicho-dragon-factory-new/)
 
 ![Desert Eagle Kumicho Dragon Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKF-JeKHC2aXzetJu_RkRiq7mhk1sjqKlLD0JC_OK1s-DsclRrYPt0SxltXlMLu04QyNjN9Hyyv2iSJB5ntitb4AAPIi-K3ShxaBb-NmvxQSPw/360fx360f)
 
@@ -140,7 +140,7 @@ Japanese dragon motif that looks great in FN but loses detail in lower wear cond
 
 ---
 
-### Desert Eagle | Night Heist
+### [Desert Eagle | Night Heist](https://skin.land/market/csgo/desert-eagle-night-heist-factory-new/)
 
 ![Desert Eagle Night Heist Minimal Wear - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RYKFkM-SsHmuRz_1JoPR7XyW2qhEutDWR1I6uJH-RPQInXJB0F-Vb50bqxt3kN-Kw4VCMjYxCyXmvj3hO6X05t-8cEf1yxd2V6Eg/360fx360f)
 
@@ -153,7 +153,7 @@ Dark tactical design. The visual gap between FT ($19) and FN ($159) is significa
 
 ---
 
-### Desert Eagle | Crimson Web
+### [Desert Eagle | Crimson Web](https://skin.land/market/csgo/desert-eagle-crimson-web-factory-new/)
 
 ![Desert Eagle Crimson Web Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRf6FvM8-XD3WbxPxJveRtRjy-2xh15zmGm9r6IHKTOFJ0DZIkQOFfuhnsk9PnMe_ls1Ha34hHznr5jC5XrnE8TAPhH1w/360fx360f)
 
@@ -166,7 +166,7 @@ Classic pattern-based skin. The catch: centered webs are worth significantly mor
 
 ---
 
-### Desert Eagle | Pilot
+### [Desert Eagle | Pilot](https://skin.land/market/csgo/desert-eagle-pilot-factory-new/)
 
 ![Desert Eagle Pilot Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uOReK1hL-SsCmKRxuJzj-xsSyCmmFMl6zzUnNehdy_DZld2A8QkTe8Dthi6m9ziN77gsgbe2IwQnyyt3SlK8G81tALx-wjy/360fx360f)
 
@@ -179,7 +179,7 @@ Military aviation theme that is genuinely hard to find. Low supply means it hold
 
 ---
 
-### Desert Eagle | Midnight Storm
+### [Desert Eagle | Midnight Storm](https://skin.land/market/csgo/desert-eagle-midnight-storm-factory-new/)
 
 ![Desert Eagle Midnight Storm Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Re6FsM-ScHGqvzOtyufRkASzrlBhx5jyByNuodnKSPFQmD8AjF-9etBDsldTgNbjhtQHe3dhDmyrgznQetvSvchw/360fx360f)
 
@@ -192,7 +192,7 @@ Dark blue/purple color scheme with one of the larger FT-to-FN visual gaps in thi
 
 ---
 
-### Desert Eagle | Conspiracy
+### [Desert Eagle | Conspiracy](https://skin.land/market/csgo/desert-eagle-conspiracy-factory-new/)
 
 ![Desert Eagle Conspiracy Minimal Wear - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ_yWMWaF0-tjo95lRi67gVMk4WTSm9moI3-QPVBxDJByQOJe40O6k4fnM-zgsQXci4gUyH3_3CMa8G81tJHuULJI/360fx360f)
 
@@ -209,7 +209,7 @@ Narrow price range ($17-20) makes this an efficient buy if you like the matte da
 
 C-Tier skins are not bad - they are just not interesting. They serve a purpose (cheap loadout option, trade-up material) but offer no wow factor. Acceptable if you need something for a specific price point, but you will probably want to upgrade eventually.
 
-### Desert Eagle | Mecha Industries
+### [Desert Eagle | Mecha Industries](https://skin.land/market/csgo/desert-eagle-mecha-industries-factory-new/)
 
 ![Desert Eagle Mecha Industries Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWqVwuZ3j-xsSyCmmFNxtzvUnouqdi_EZgB2X5d5ELUNuhDqxoazYu634QPX3oxAnyj_jnlP8G81tF-I545Z/360fx360f)
 
@@ -222,7 +222,7 @@ Industrial mechanical design. The most liquid Deagle skin by listing count. Best
 
 ---
 
-### Desert Eagle | Night
+### [Desert Eagle | Night](https://skin.land/market/csgo/desert-eagle-night-factory-new/)
 
 ![Desert Eagle Night Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RYKFkM-SsHmuRz_1JoPR7XyW2qhAitzSQl8H7dS3GbwEmX5FyE-UI5xixkNWxP-rmtgOKjI5HyC332H5B6Cdq4L1XT-N7rWbarRb5/360fx360f)
 
@@ -233,7 +233,7 @@ Plain dark pattern with minimal visual appeal. The FN premium ($87) is not justi
 
 ---
 
-### Desert Eagle | Heirloom
+### [Desert Eagle | Heirloom](https://skin.land/market/csgo/desert-eagle-heirloom-factory-new/)
 
 ![Desert Eagle Heirloom Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbapqMvGFC2Ovxet3t-1scCS2kRQyvnPRno79cHzGaVclCpJ0E7IK4EW8xtbhMO7q4VeK2Y0RmCn8hiMYunxs_a9cBiCne5lf/360fx360f)
 
@@ -244,7 +244,7 @@ Ornate gold pattern that looks impressive in FN - but FN at $127 is overpriced f
 
 ---
 
-### Desert Eagle | Sputnik
+### [Desert Eagle | Sputnik](https://skin.land/market/csgo/desert-eagle-sputnik-factory-new/)
 
 ![Desert Eagle Sputnik Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_OKRe7RsI_WBD2SV_ux6peRWQiy3nAgq_TuAzI6pInqUOAUiCJolTeVbsUG_ktfnNOiw5gaIid1AyXmo2yMa6351o7FVpxR2T2s/360fx360f)
 
@@ -255,7 +255,7 @@ Space-themed but limited visual impact. The FN is overpriced at $20 for this des
 
 ---
 
-### Desert Eagle | Urban DDPAT
+### [Desert Eagle | Urban DDPAT](https://skin.land/market/csgo/desert-eagle-urban-ddpat-factory-new/)
 
 ![Desert Eagle Urban DDPAT Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRbKB9IeSsG3WS_uNztOh8QmfmwU13sGqAwtv9cniQOFQpD5VyEOFetEWwx9blP-6341PX2tkRnyj7kGoXuY47kocH/360fx360f)
 
@@ -270,7 +270,7 @@ Standard DDPAT camo. Probably the most generic skin in the entire Deagle lineup.
 
 D-Tier skins have almost no visual appeal and low community demand. The only reason to own them is as red-rarity trade-up material - and even then, check if there are better-value red skins available first.
 
-### Desert Eagle | Heat Treated
+### [Desert Eagle | Heat Treated](https://skin.land/market/csgo/desert-eagle-heat-treated-factory-new/)
 
 ![Desert Eagle Heat Treated Factory New - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKFsJ_yWMWSR0utJuOB7Syy9kBkY4QKJk4jxNWXGbQZ0CZpyTeBf4xO4m9y1Nuy05wHYg4lNySWr3C1Luyhu4LkKA6As5OSJ2JAJXn6j/360fx360f)
 
@@ -281,7 +281,7 @@ Primarily a trade-up material skin. The FN at $73 is completely unjustified visu
 
 ---
 
-### Desert Eagle | Naga
+### [Desert Eagle | Naga](https://skin.land/market/csgo/desert-eagle-naga-factory-new/)
 
 ![Desert Eagle Naga Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKFsJ_yWMWmRxu9JveRtRjy-201_5Gjcnor7cSmQPVRyApB2ROBbtEbtm9fvP-3hslaKiIJNzyj3jSJXrnE8t0AyZrc/360fx360f)
 
@@ -292,7 +292,7 @@ Low demand, unremarkable design. No community interest.
 
 ---
 
-### Desert Eagle | Mulberry
+### [Desert Eagle | Mulberry](https://skin.land/market/csgo/desert-eagle-mulberry-factory-new/)
 
 ![Desert Eagle Mulberry Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_P2rV7RhNf2sA2KUyPt7_uUxG37llhl26zjSz434I3OTbAByX5J1RLMNskXuwYfiM7jg71DeiIJbjXKpmKzzTQk/360fx360f)
 

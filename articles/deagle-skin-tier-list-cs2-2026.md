@@ -1,6 +1,6 @@
 # Desert Eagle Skin Tier List CS2 2026: All Deagle Skins Ranked
 
-The Desert Eagle is CS2's most iconic [pistol](https://skin.land/blog/r8-vs-deagle-in-cs2-which-one-to-choose/) — a one-shot headshot threat with 21 skins ranging from $1 budget fillers to $757 collector pieces. This tier list ranks every Deagle skin available on [Skin.Land](https://skin.land) in June 2026 across five tiers — S through D — based on visual design, community demand, [price-to-value ratio](https://skin.land/blog/what-to-look-at-when-buying-csgo-skins/), and [rarity class](https://skin.land/blog/csgo-skins-rarity/).
+The Desert Eagle is CS2's most iconic pistol — a one-shot headshot threat with 21 skins ranging from $1 budget fillers to $757 collector pieces. This tier list ranks every Deagle skin available on [Skin.Land](https://skin.land) in June 2026 across five tiers — S through D — based on visual design, community demand, price-to-value ratio, and rarity class.
 
 ---
 
@@ -27,7 +27,7 @@ S-Tier skins are the ones every CS2 player recognizes instantly. They have prove
 ![Desert Eagle Blaze Factory New - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKF-JeKHMWKRxuJzj-JmXTu8kRgpjDGMnYftb32UPwJxDJokRuUIsRi_lNPhM7izsgXZi49GySiq2nxNuCdttbtUB_A7uvqAjSk2l_c/360fx360f)
 
 
-**Price:** $641 (FN) - $757 (MW) | **Rarity:** Classified
+**Price:** $641 (FN) - $757 (MW) | **Rarity:** [Classified](https://skin.land/blog/csgo-skins-rarity/)
 
 The undisputed king of Desert Eagle skins. Blaze has been a CS community staple since 2013 - a clean orange flame design that looks nearly identical across wear conditions. Only FN and MW exist, keeping supply limited and prices stable.
 
@@ -317,7 +317,7 @@ Budget trade-up filler only. Purple tones but boring execution.
 Five tiers: S, A, B, C, and D. S-Tier contains the two best skins - Blaze and Printstream. D-Tier contains three skins with almost no visual appeal that are only useful as trade-up material.
 
 **What criteria were used to rank Desert Eagle skins?**
-Four criteria: visual design quality, community demand and recognition, price-to-value ratio (how good the skin looks relative to its cost), and liquidity (how easy it is to buy and sell). Price alone does not determine tier - Printstream at $35 is S-Tier while Hypnotic at $203 is A-Tier. The same criteria apply across all weapons — see the [AK-47 skins tier list](https://skin.land/blog/ak-47-skins-tier-list-in-cs2/) for a comparable breakdown.
+Four criteria: visual design quality, community demand and recognition, [price-to-value ratio](https://skin.land/blog/what-to-look-at-when-buying-csgo-skins/) (how good the skin looks relative to its cost), and liquidity (how easy it is to buy and sell). Price alone does not determine tier - Printstream at $35 is S-Tier while Hypnotic at $203 is A-Tier. The same criteria apply across all weapons — see the [AK-47 skins tier list](https://skin.land/blog/ak-47-skins-tier-list-in-cs2/) for a comparable breakdown.
 
 **What is the difference between S-Tier and A-Tier?**
 S-Tier skins are community icons - instantly recognizable by any CS2 player, with proven long-term value and no significant weaknesses. A-Tier skins are excellent picks but lack that universal recognition or have a minor trade-off, such as a large price gap between wear conditions.

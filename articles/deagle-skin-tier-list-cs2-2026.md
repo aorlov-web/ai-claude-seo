@@ -2,7 +2,7 @@
 
 The Desert Eagle is CS2's most iconic pistol - one-shot headshot potential, flashy animations, and a huge skin catalog to match. But with **21 skins at wildly different prices and quality levels**, choosing the right one is not easy.
 
-This tier list ranks every Desert Eagle skin available on [skin.land](https://skin.land) in June 2026 - from budget picks under $5 to collector-grade rarities above $600 - based on looks, value, liquidity, and community reputation. If you're new to skin buying, check out [what to look at when buying CS2 skins](https://skin.land/blog/what-to-look-at-when-buying-csgo-skins/) and our guide to [CS2 skin rarity tiers](https://skin.land/blog/csgo-skins-rarity/) before diving in.
+This tier list ranks every Desert Eagle skin available on [Skin.Land](https://skin.land) in June 2026 - from budget picks under $5 to collector-grade rarities above $600 - based on looks, value, liquidity, and community reputation. If you're new to skin buying, check out [what to look at when buying CS2 skins](https://skin.land/blog/what-to-look-at-when-buying-csgo-skins/) and our guide to [CS2 skin rarity tiers](https://skin.land/blog/csgo-skins-rarity/) before diving in.
 
 ---
 
@@ -16,7 +16,7 @@ This tier list ranks every Desert Eagle skin available on [skin.land](https://sk
 | **C** | Night, Heirloom, Mecha Industries, Sputnik, Urban DDPAT | Average at best - acceptable as budget fillers, not worth paying premium |
 | **D** | Naga, Heat Treated, Mulberry | No visual appeal, low demand, only useful as trade-up material |
 
-*Prices from skin.land catalog, June 2026.*
+*Prices from Skin.Land catalog, June 2026.*
 
 ---
 
@@ -26,7 +26,7 @@ S-Tier skins are the ones every CS2 player recognizes instantly. They have prove
 
 ### Desert Eagle | Blaze
 
-![Desert Eagle Blaze Factory New - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKF-JeKHMWKRxuJzj-JmXTu8kRgpjDGMnYftb32UPwJxDJokRuUIsRi_lNPhM7izsgXZi49GySiq2nxNuCdttbtUB_A7uvqAjSk2l_c/360fx360f)
+![Desert Eagle Blaze Factory New - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKF-JeKHMWKRxuJzj-JmXTu8kRgpjDGMnYftb32UPwJxDJokRuUIsRi_lNPhM7izsgXZi49GySiq2nxNuCdttbtUB_A7uvqAjSk2l_c/360fx360f)
 
 
 **Price:** $641 (FN) - $757 (MW) | **Rarity:** Classified
@@ -41,7 +41,7 @@ Interestingly, MW costs *more* than FN due to a more intense flame coloration - 
 
 ### Desert Eagle | Printstream
 
-![Desert Eagle Printstream Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ8-DHG6e1f1iouRoQha-kBkupjDLz9_6c3mWPFBxX8N0EOMIsULpmtHjPuvq41bc2dhAzy3_2ngfvHpt5_FCD_RJLjxjaQ/360fx360f)
+![Desert Eagle Printstream Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ8-DHG6e1f1iouRoQha-kBkupjDLz9_6c3mWPFBxX8N0EOMIsULpmtHjPuvq41bc2dhAzy3_2ngfvHpt5_FCD_RJLjxjaQ/360fx360f)
 
 
 **Price:** $32 (BS) - $78 (FN) | **Rarity:** Classified
@@ -60,7 +60,7 @@ A-Tier skins are not as iconic as S-Tier, but they are confidently recommended b
 
 ### Desert Eagle | Cobalt Disruption
 
-![Desert Eagle Cobalt Disruption Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RbKB9IeSXC2mDxNFmteBqQCq4qhAitzSQl8GocHyWaVV0D5twQ-MN4BK5wdCzYr_q4FaL2dhCxXn4jnxL6y9s6-kHT-N7rQZpqM5J/360fx360f)
+![Desert Eagle Cobalt Disruption Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RbKB9IeSXC2mDxNFmteBqQCq4qhAitzSQl8GocHyWaVV0D5twQ-MN4BK5wdCzYr_q4FaL2dhCxXn4jnxL6y9s6-kHT-N7rQZpqM5J/360fx360f)
 
 
 **Price:** $84 (FT) - $155 (FN) | **Rarity:** Classified
@@ -73,7 +73,7 @@ A vibrant blue geometric design that stands out in a sea of dark skins. Popular 
 
 ### Desert Eagle | Hypnotic
 
-![Desert Eagle Hypnotic Factory New - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7vORfqF_NPmUAVicyOl-pK9qSyyywxgjtmnVytyocnLGPA4iWcYmRLYIu0S-xtbuMLjg51DXjoJC02yg2VjGnh4J/360fx360f)
+![Desert Eagle Hypnotic Factory New - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7vORfqF_NPmUAVicyOl-pK9qSyyywxgjtmnVytyocnLGPA4iWcYmRLYIu0S-xtbuMLjg51DXjoJC02yg2VjGnh4J/360fx360f)
 
 
 **Price:** $203 (MW) - $230 (FN) | **Rarity:** Restricted
@@ -86,7 +86,7 @@ Classic swirling optical illusion pattern that still turns heads in 2026. Only F
 
 ### Desert Eagle | Code Red
 
-![Desert Eagle Code Red Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWaXxvxzo_JmXRa-kBkupjDLzd2qIH_DPQcpA8YjFuQP50a7moKyMuK35QyK3t0WnC75iC5B53w-5PFCD_THYZfD3g/360fx360f)
+![Desert Eagle Code Red Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWaXxvxzo_JmXRa-kBkupjDLzd2qIH_DPQcpA8YjFuQP50a7moKyMuK35QyK3t0WnC75iC5B53w-5PFCD_THYZfD3g/360fx360f)
 
 
 **Price:** $38 (BS) - $191 (FN) | **Rarity:** Classified
@@ -99,7 +99,7 @@ Bold red angular design. One of the most popular red loadout picks with strong s
 
 ### Desert Eagle | Ocean Drive
 
-![Desert Eagle Ocean Drive Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ_yWMWyZ1e1-j-xsSyCmmFN_4jjWm9r4dX2UaFUmW8QhF-8CuxHrw4DuZLvi41fX2YkTyyj82H8c8G81tL4Q1wXb/360fx360f)
+![Desert Eagle Ocean Drive Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ_yWMWyZ1e1-j-xsSyCmmFN_4jjWm9r4dX2UaFUmW8QhF-8CuxHrw4DuZLvi41fX2YkTyyj82H8c8G81tL4Q1wXb/360fx360f)
 
 
 **Price:** $58 (WW) - $320 (FN) | **Rarity:** Classified
@@ -112,7 +112,7 @@ Miami Vice-inspired pastel skin with a retro vibe. The FT at $61 looks nearly id
 
 ### Desert Eagle | Starcade
 
-![Desert Eagle Starcade Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRb6hkNOSWHFiUxO9xvORWQiy3nAgq_TyBmd-vdnyQOlBxX5N5RbVf5Ea9wdziZunk5AzfjYoUmyitiSsYu3x1o7FVQTjRQV0/360fx360f)
+![Desert Eagle Starcade Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRb6hkNOSWHFiUxO9xvORWQiy3nAgq_TyBmd-vdnyQOlBxX5N5RbVf5Ea9wdziZunk5AzfjYoUmyitiSsYu3x1o7FVQTjRQV0/360fx360f)
 
 
 **Price:** $42 (BS) - $240 (FN) | **Rarity:** Classified
@@ -129,7 +129,7 @@ B-Tier skins are good - but each has at least one reason to pause before buying.
 
 ### Desert Eagle | Kumicho Dragon
 
-![Desert Eagle Kumicho Dragon Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKF-JeKHC2aXzetJu_RkRiq7mhk1sjqKlLD0JC_OK1s-DsclRrYPt0SxltXlMLu04QyNjN9Hyyv2iSJB5ntitb4AAPIi-K3ShxaBb-NmvxQSPw/360fx360f)
+![Desert Eagle Kumicho Dragon Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKF-JeKHC2aXzetJu_RkRiq7mhk1sjqKlLD0JC_OK1s-DsclRrYPt0SxltXlMLu04QyNjN9Hyyv2iSJB5ntitb4AAPIi-K3ShxaBb-NmvxQSPw/360fx360f)
 
 
 **Price:** $20 (BS) - $80 (FN) | **Rarity:** Restricted
@@ -142,7 +142,7 @@ Japanese dragon motif that looks great in FN but loses detail in lower wear cond
 
 ### Desert Eagle | Night Heist
 
-![Desert Eagle Night Heist Minimal Wear - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RYKFkM-SsHmuRz_1JoPR7XyW2qhEutDWR1I6uJH-RPQInXJB0F-Vb50bqxt3kN-Kw4VCMjYxCyXmvj3hO6X05t-8cEf1yxd2V6Eg/360fx360f)
+![Desert Eagle Night Heist Minimal Wear - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RYKFkM-SsHmuRz_1JoPR7XyW2qhEutDWR1I6uJH-RPQInXJB0F-Vb50bqxt3kN-Kw4VCMjYxCyXmvj3hO6X05t-8cEf1yxd2V6Eg/360fx360f)
 
 
 **Price:** $19 (FT) - $159 (FN) | **Rarity:** Classified
@@ -155,7 +155,7 @@ Dark tactical design. The visual gap between FT ($19) and FN ($159) is significa
 
 ### Desert Eagle | Crimson Web
 
-![Desert Eagle Crimson Web Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRf6FvM8-XD3WbxPxJveRtRjy-2xh15zmGm9r6IHKTOFJ0DZIkQOFfuhnsk9PnMe_ls1Ha34hHznr5jC5XrnE8TAPhH1w/360fx360f)
+![Desert Eagle Crimson Web Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRf6FvM8-XD3WbxPxJveRtRjy-2xh15zmGm9r6IHKTOFJ0DZIkQOFfuhnsk9PnMe_ls1Ha34hHznr5jC5XrnE8TAPhH1w/360fx360f)
 
 
 **Price:** $11 (FT) - $232 (FN) | **Rarity:** Restricted
@@ -168,7 +168,7 @@ Classic pattern-based skin. The catch: centered webs are worth significantly mor
 
 ### Desert Eagle | Pilot
 
-![Desert Eagle Pilot Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uOReK1hL-SsCmKRxuJzj-xsSyCmmFMl6zzUnNehdy_DZld2A8QkTe8Dthi6m9ziN77gsgbe2IwQnyyt3SlK8G81tALx-wjy/360fx360f)
+![Desert Eagle Pilot Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uOReK1hL-SsCmKRxuJzj-xsSyCmmFMl6zzUnNehdy_DZld2A8QkTe8Dthi6m9ziN77gsgbe2IwQnyyt3SlK8G81tALx-wjy/360fx360f)
 
 
 **Price:** $80 (BS) - $210 (FN) | **Rarity:** Restricted
@@ -181,7 +181,7 @@ Military aviation theme that is genuinely hard to find. Low supply means it hold
 
 ### Desert Eagle | Midnight Storm
 
-![Desert Eagle Midnight Storm Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Re6FsM-ScHGqvzOtyufRkASzrlBhx5jyByNuodnKSPFQmD8AjF-9etBDsldTgNbjhtQHe3dhDmyrgznQetvSvchw/360fx360f)
+![Desert Eagle Midnight Storm Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-Re6FsM-ScHGqvzOtyufRkASzrlBhx5jyByNuodnKSPFQmD8AjF-9etBDsldTgNbjhtQHe3dhDmyrgznQetvSvchw/360fx360f)
 
 
 **Price:** $17 (FT) - $166 (FN) | **Rarity:** Classified
@@ -194,7 +194,7 @@ Dark blue/purple color scheme with one of the larger FT-to-FN visual gaps in thi
 
 ### Desert Eagle | Conspiracy
 
-![Desert Eagle Conspiracy Minimal Wear - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ_yWMWaF0-tjo95lRi67gVMk4WTSm9moI3-QPVBxDJByQOJe40O6k4fnM-zgsQXci4gUyH3_3CMa8G81tJHuULJI/360fx360f)
+![Desert Eagle Conspiracy Minimal Wear - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7OeRbKFsJ_yWMWaF0-tjo95lRi67gVMk4WTSm9moI3-QPVBxDJByQOJe40O6k4fnM-zgsQXci4gUyH3_3CMa8G81tJHuULJI/360fx360f)
 
 
 **Price:** $17 (MW) - $20 (FN) | **Rarity:** Mil-Spec
@@ -211,7 +211,7 @@ C-Tier skins are not bad - they are just not interesting. They serve a purpose (
 
 ### Desert Eagle | Mecha Industries
 
-![Desert Eagle Mecha Industries Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWqVwuZ3j-xsSyCmmFNxtzvUnouqdi_EZgB2X5d5ELUNuhDqxoazYu634QPX3oxAnyj_jnlP8G81tF-I545Z/360fx360f)
+![Desert Eagle Mecha Industries Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk6OGRbKFsJ_yWMWqVwuZ3j-xsSyCmmFNxtzvUnouqdi_EZgB2X5d5ELUNuhDqxoazYu634QPX3oxAnyj_jnlP8G81tF-I545Z/360fx360f)
 
 
 **Price:** $5 (FT) - $15 (FN) | **Rarity:** Mil-Spec
@@ -224,7 +224,7 @@ Industrial mechanical design. The most liquid Deagle skin by listing count. Best
 
 ### Desert Eagle | Night
 
-![Desert Eagle Night Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RYKFkM-SsHmuRz_1JoPR7XyW2qhAitzSQl8H7dS3GbwEmX5FyE-UI5xixkNWxP-rmtgOKjI5HyC332H5B6Cdq4L1XT-N7rWbarRb5/360fx360f)
+![Desert Eagle Night Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7v-RYKFkM-SsHmuRz_1JoPR7XyW2qhAitzSQl8H7dS3GbwEmX5FyE-UI5xixkNWxP-rmtgOKjI5HyC332H5B6Cdq4L1XT-N7rWbarRb5/360fx360f)
 
 
 **Price:** $10 (BS) - $87 (FN) | **Rarity:** Restricted
@@ -235,7 +235,7 @@ Plain dark pattern with minimal visual appeal. The FN premium ($87) is not justi
 
 ### Desert Eagle | Heirloom
 
-![Desert Eagle Heirloom Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbapqMvGFC2Ovxet3t-1scCS2kRQyvnPRno79cHzGaVclCpJ0E7IK4EW8xtbhMO7q4VeK2Y0RmCn8hiMYunxs_a9cBiCne5lf/360fx360f)
+![Desert Eagle Heirloom Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbapqMvGFC2Ovxet3t-1scCS2kRQyvnPRno79cHzGaVclCpJ0E7IK4EW8xtbhMO7q4VeK2Y0RmCn8hiMYunxs_a9cBiCne5lf/360fx360f)
 
 
 **Price:** $7 (FT) - $127 (FN) | **Rarity:** Mil-Spec
@@ -246,7 +246,7 @@ Ornate gold pattern that looks impressive in FN - but FN at $127 is overpriced f
 
 ### Desert Eagle | Sputnik
 
-![Desert Eagle Sputnik Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_OKRe7RsI_WBD2SV_ux6peRWQiy3nAgq_TuAzI6pInqUOAUiCJolTeVbsUG_ktfnNOiw5gaIid1AyXmo2yMa6351o7FVpxR2T2s/360fx360f)
+![Desert Eagle Sputnik Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_OKRe7RsI_WBD2SV_ux6peRWQiy3nAgq_TuAzI6pInqUOAUiCJolTeVbsUG_ktfnNOiw5gaIid1AyXmo2yMa6351o7FVpxR2T2s/360fx360f)
 
 
 **Price:** $2 (WW) - $20 (FN) | **Rarity:** Mil-Spec
@@ -257,7 +257,7 @@ Space-themed but limited visual impact. The FN is overpriced at $20 for this des
 
 ### Desert Eagle | Urban DDPAT
 
-![Desert Eagle Urban DDPAT Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRbKB9IeSsG3WS_uNztOh8QmfmwU13sGqAwtv9cniQOFQpD5VyEOFetEWwx9blP-6341PX2tkRnyj7kGoXuY47kocH/360fx360f)
+![Desert Eagle Urban DDPAT Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk5-uRbKB9IeSsG3WS_uNztOh8QmfmwU13sGqAwtv9cniQOFQpD5VyEOFetEWwx9blP-6341PX2tkRnyj7kGoXuY47kocH/360fx360f)
 
 
 **Price:** $2 (BS) - $35 (FN) | **Rarity:** Mil-Spec
@@ -272,7 +272,7 @@ D-Tier skins have almost no visual appeal and low community demand. The only rea
 
 ### Desert Eagle | Heat Treated
 
-![Desert Eagle Heat Treated Factory New - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKFsJ_yWMWSR0utJuOB7Syy9kBkY4QKJk4jxNWXGbQZ0CZpyTeBf4xO4m9y1Nuy05wHYg4lNySWr3C1Luyhu4LkKA6As5OSJ2JAJXn6j/360fx360f)
+![Desert Eagle Heat Treated Factory New - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKFsJ_yWMWSR0utJuOB7Syy9kBkY4QKJk4jxNWXGbQZ0CZpyTeBf4xO4m9y1Nuy05wHYg4lNySWr3C1Luyhu4LkKA6As5OSJ2JAJXn6j/360fx360f)
 
 
 **Price:** $1 (BS) - $73 (FN) | **Rarity:** Restricted
@@ -283,7 +283,7 @@ Primarily a trade-up material skin. The FN at $73 is completely unjustified visu
 
 ### Desert Eagle | Naga
 
-![Desert Eagle Naga Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKFsJ_yWMWmRxu9JveRtRjy-201_5Gjcnor7cSmQPVRyApB2ROBbtEbtm9fvP-3hslaKiIJNzyj3jSJXrnE8t0AyZrc/360fx360f)
+![Desert Eagle Naga Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk7uORbKFsJ_yWMWmRxu9JveRtRjy-201_5Gjcnor7cSmQPVRyApB2ROBbtEbtm9fvP-3hslaKiIJNzyj3jSJXrnE8t0AyZrc/360fx360f)
 
 
 **Price:** $2 (BS) - $41 (FN) | **Rarity:** Mil-Spec
@@ -294,7 +294,7 @@ Low demand, unremarkable design. No community interest.
 
 ### Desert Eagle | Mulberry
 
-![Desert Eagle Mulberry Field-Tested - buy on skin.land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_P2rV7RhNf2sA2KUyPt7_uUxG37llhl26zjSz434I3OTbAByX5J1RLMNskXuwYfiM7jg71DeiIJbjXKpmKzzTQk/360fx360f)
+![Desert Eagle Mulberry Field-Tested - buy on Skin.Land](https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL1m5fn8Sdk_P2rV7RhNf2sA2KUyPt7_uUxG37llhl26zjSz434I3OTbAByX5J1RLMNskXuwYfiM7jg71DeiIJbjXKpmKzzTQk/360fx360f)
 
 
 **Price:** $1 (BS) - $18 (FN) | **Rarity:** Mil-Spec
@@ -325,4 +325,4 @@ Four criteria: visual design quality, community demand and recognition, price-to
 S-Tier skins are community icons - instantly recognizable by any CS2 player, with proven long-term value and no significant weaknesses. A-Tier skins are excellent picks but lack that universal recognition or have a minor trade-off, such as a large price gap between wear conditions.
 
 **How often is this tier list updated?**
-We update the tier list when new skins are added to CS2 or when significant market shifts change the value of existing skins. Prices are refreshed from skin.land catalog data - the current version reflects June 2026 market conditions.
+We update the tier list when new skins are added to CS2 or when significant market shifts change the value of existing skins. Prices are refreshed from Skin.Land catalog data - the current version reflects June 2026 market conditions.

@@ -47,10 +47,19 @@ https://skin.land/market/csgo/{weapon-slug}-{skin-slug}-{wear}/
 - `https://skin.land/market/csgo/desert-eagle-blaze-factory-new/`
 - `https://skin.land/market/csgo/desert-eagle-printstream-field-tested/`
 
+**Ножі та рукавиці (★):**
+В URL для ножів і рукавиць (covert/extraordinary, "★" в назві Steam market hash) додається префікс `★-` (у URL-кодуванні `%E2%98%85-`):
+```
+https://skin.land/market/csgo/%E2%98%85-{weapon-slug}-{skin-slug}-{wear}/
+```
+Приклад: `https://skin.land/market/csgo/%E2%98%85-navaja-knife-rust-coat-well-worn/`
+Для звичайної зброї (пістолети, рушниці, AK/AWP/M4 і т.д.) префікс **не** додається.
+
 **Правила:**
 - Заголовок скіна (`### Desert Eagle | Blaze`) — посилання на FN версію
 - Рядок "Best buy" — посилання на рекомендований wear
 - Cloudflare блокує скрипти — перевіряти URL вручну або через браузер
+- Для перевірки актуальних цін і назв товарів використовувати `/data/csgo-market-export.json` (експорт каталогу CS:GO, поля `name`, `price`, `url`, `count`) — оновлювати періодично через `curl -sL -o data/csgo-market-export.json "https://app.skin.land/market_export_json/csgo.json"` (цей endpoint не блокується Cloudflare, але посилання в статтях все одно мають бути на домен `skin.land`, не `app.skin.land`)
 
 ---
 

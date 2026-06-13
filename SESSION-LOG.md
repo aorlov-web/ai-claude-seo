@@ -43,9 +43,23 @@
 ## Існуючі написані статті (актуальний список)
 - `articles/deagle-skin-tier-list-cs2-2026.md`
 - `articles/best-cs2-knives-under-100-2026.md`
+- `articles/best-driver-gloves-skins-in-cs2-2026.md` (нове, 2026-06-13)
 - (+ HTML-пари для кожної)
 
+## 2026-06-13 (продовження) — Driver Gloves стаття
+
+Написано `best-driver-gloves-skins-in-cs2-2026.md` + `.html` — 8 фінішів
+(King Snake, Garden, Plum Quill, Brocade Crane, Brocade Flowers, Imperial Plaid,
+Overtake, Racing Green), ціни з `data/csgo-market-export.json`, картинки —
+Steam CDN icon_url отримано через `WebFetch` на
+`steamcommunity.com/market/search/render/?query=...&appid=730&norender=1`.
+8 внутрішніх лінків зі sitemap. Перевірено: усі тайтли скінів лінкують на FN
+(окрім Brocade Flowers — FN не існує в каталозі, лінк на MW).
+
+Наступний кандидат: **Best Moto Gloves Skins in CS2** (другий пріоритет після Driver,
+п.76 у TOPICS-BANK).
+
 ## Відкриті задачі
-- [ ] Підтвердити набір Gloves-статей і написати їх (md + html, internal links, commit)
+- [ ] Написати Best Moto Gloves Skins in CS2 (наступний gloves-тест)
 - [ ] AK-47 | Inheritance — стаття (інформаційний фокус, без pattern-секції)
 - [ ] Вирішити, чи додавати general CS2 how-to теми з нового xlsx в TOPICS-BANK

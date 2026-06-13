@@ -174,6 +174,7 @@ https://skin.land/market/csgo/%E2%98%85-{weapon-slug}-{skin-slug}-{wear}/
 Написані нами статті у `/articles/`:
 - `deagle-skin-tier-list-cs2-2026.md`
 - `best-cs2-knives-under-100-2026.md`
+- `best-driver-gloves-skins-in-cs2-2026.md`
 
 ---
 

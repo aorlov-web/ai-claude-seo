@@ -24,14 +24,25 @@
 | 74 | Найкращі Holo та Slab стікери CS2 у 2026 | all holo stickers cs2 (1000), slab stickers cs2 (1000) | Доповнює `cs2-sticker-slab-guide` (вже #1 на "cs2 sticker slab", 170/міс) |
 | 75 | Найдешевші Covert (red) скіни CS2 у 2026 | cheapest red skins cs2 (1300) | Доповнює `best-restricted-skins-in-cs2` (purple, #2 на 1600/міс) — той самий формат для "red" рідкості |
 
-### 🟡 Середній пріоритет — кольорові рукавиці (формат Blue Gloves, що вже в топі)
+### ⚠️ Скасовано — кольорові рукавиці (76-79) ВЖЕ Є на блозі
+
+Перевірено `sitemap-blog-urls.txt`: статті по **кожному** кольору рукавиць вже існують —
+red, blue, green, purple, yellow, white, black, pink, orange (`best-red-gloves-in-cs2`,
+`all-best-purple-gloves-in-csgo-and-cs2`, `best-green-gloves-in-cs2`,
+`best-blue-gloves-in-csgo-and-cs2` та ін.). Пункти 76-79 — **дублікати, не писати**.
+
+### 🟡 Середній пріоритет — рукавиці за моделлю (НЕ дублюють існуючі статті)
+
+З xlsx-плану (`skin_land_blog_plan_final_1.xlsx`), категорія Gloves — перевірено, що
+моделей Moto/Hand Wraps/Broken Fang/Driver серед 501 існуючих статей немає (на відміну
+від кольорових — там вже все покрито: Sport Gloves, Specialist Gloves, Hydra Gloves).
 
 | # | Тема | Ключові запити (об'єм/міс) | Чому |
 |---|---|---|---|
-| 76 | Найкращі червоні рукавиці CS2 у 2026 | red gloves cs2 (480), red glove (480) | Той самий формат, що й `best-blue-gloves-in-csgo-and-cs2` (#1, 480/міс) |
-| 77 | Найкращі фіолетові рукавиці CS2 у 2026 | purple gloves cs2 (390) | |
-| 78 | Найкращі зелені рукавиці CS2 у 2026 | green gloves cs2 (390) | |
-| 79 | Всі рукавиці CS2 за кольорами — повний гід 2026 | all cs2 gloves (320), all gloves cs2 (320) | Pillar, посилається на всі кольорові статті (blue/red/purple/green) |
+| 76 | Найкращі Moto Gloves скіни CS2 у 2026 | moto gloves cs2 (50) | Модель не покрита, формат Best [Model] Gloves |
+| 77 | Найкращі Hand Wraps скіни CS2 у 2026 | hand wraps cs2 (50), cheap hand wraps cs2 | Модель не покрита |
+| 78 | Найкращі Broken Fang Gloves скіни CS2 у 2026 | broken fang gloves cs2 (50) | Модель не покрита |
+| 79 | Найкращі Driver Gloves скіни CS2 у 2026 | driver gloves cs2 (30) | Модель не покрита |
 
 ---
 
@@ -190,5 +201,5 @@
 ### Тиждень 5–6:
 9. M4A4 | Howl — ціни, float і патерни 2026
 10. Найдешевші Covert (red) скіни CS2 у 2026 *(нове, п.75 — 1300/міс)*
-11. Найкращі червоні рукавиці CS2 у 2026 *(нове, п.76 — формат Blue Gloves)*
+11. Найкращі Driver Gloves скіни CS2 у 2026 *(нове, п.79 — модель не покрита на блозі)*
 12. Pillar: Скіни CS2 — повний гайд для новачка

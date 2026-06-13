@@ -32,10 +32,17 @@
 
 **Головна**: тайтл CS2-first, без CS:GO у заголовку: `Buy & Sell CS2 Skins for Real Money | Best CS2 Skin Site — Skin.Land`.
 
-⚠️ **Уточнення структури (перевірено через браузер 13.06.2026)**: на реальному сайті блок
-"Have questions?" — це **ОДИН `<h2>` + суцільний текст** (9 параграфів + 2 списки), а НЕ 4
-окремих FAQ-питання з акордеоном, як припускалось у попередньому чаті. Новий текст
-(`/pages/homepage/homepage-faq-en.html`) написано саме в цьому форматі — без додавання H3.
+**Структура блоку "Have questions?"** (підтверджено реальним кодом 13.06.2026):
+`<section class="questions">` → `<h2>` + intro `<p class="questions__description">` +
+4× `<div class="questions__item">` (title + answer) + closing `<p class="questions__description">`.
+Списки всередині questions__item — `<ol>` (тут це ОК, на відміну від sell-skins/csgo).
+Новий текст — `/pages/homepage/homepage-faq-en.html`, точна розмітка/класи збережені.
+
+4 питання нової версії:
+1. How do I get real money for my CS2 skins? (Steam-лімітація + реальні методи виплат + лінк на market)
+2. Can I sell my CS2 skins instantly? (instant payout + Trade Protection 2025 + чесний перехват trade-кластера)
+3. How to choose a skin-selling website? (чек-лист, без змін по суті)
+4. Why is Skin.Land the best site to buy and sell CS2 skins? (реальні переваги: Vitality, 2.6M/618K/4.6, instant payout, no hidden fees, 3 games)
 
 **Лендинг sell-skins/csgo**: CS2-first скрізь, CS:GO зведено до 1-2 згадок (хвіст запитів ще живий).
 Каркас H2 після переробки:
